@@ -1,3 +1,2 @@
 # BP_Network
-### 细解地址
-https://blog.csdn.net/qq_35556369/article/details/102887964
+### 实验pdf文档含有算法推导、实现和具体分析
